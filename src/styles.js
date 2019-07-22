@@ -45,7 +45,7 @@ const cropperArea = {
   border: lineBorder,
   boxSizing: 'border-box',
   boxShadow: '0 0 0 9999em',
-  color: 'rgba(0,0,0,0.5)',
+  color: 'rgba(255, 255, 255, 0.2)',
   overflow: 'hidden',
 }
 const gridLines = {
